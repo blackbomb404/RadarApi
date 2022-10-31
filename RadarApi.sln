@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RadarApi", "RadarApi\RadarApi.csproj", "{8C70F0F1-D9FB-4BC7-A951-BE62B5CD4FEE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{AC2C1E6F-1EDD-43C3-991F-34F83ABA8F1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C70F0F1-D9FB-4BC7-A951-BE62B5CD4FEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C70F0F1-D9FB-4BC7-A951-BE62B5CD4FEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C70F0F1-D9FB-4BC7-A951-BE62B5CD4FEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C70F0F1-D9FB-4BC7-A951-BE62B5CD4FEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82E674E9-F2AF-4D5B-8600-4FB9CAF5F2DD}
+	EndGlobalSection
+EndGlobal
