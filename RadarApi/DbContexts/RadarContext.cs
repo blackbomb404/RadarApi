@@ -34,6 +34,7 @@ namespace RadarApi.DbContexts
 
             modelBuilder.Entity<News>()
                 .Property(e => e.PostedAt)
+                .HasColumnType("TIMESTAMP")
                 .HasDefaultValueSql("CURRENT_TIMESTAMP");
 
             modelBuilder.Entity<News>()
